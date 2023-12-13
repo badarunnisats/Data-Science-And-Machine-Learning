@@ -227,6 +227,7 @@ This module covers the basics of deep learning and introduces neural networks.
  . Back-Propagation, Activation functions
  . Deep networks, Regularization
  . Dropout, Batch Normalization
+ 
 **2.Python Libraries for Deep Learning**
 
  . Keras
@@ -238,6 +239,7 @@ This module covers the basics of deep learning and introduces neural networks.
  . Convolution, Correlation, Filtering
  . CNN architectures
  . Compiling and fitting a model
+ 
 **4.Advanced Deep Architectures**
 
  . Recurrent Neural Networks (RNNs)
