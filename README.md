@@ -1,5 +1,7 @@
 # Python 
 
+![python](https://github.com/badarunnisats/Data-Science-And-Machine-Learning/assets/109198401/c0aee904-8981-4002-8a90-7c8ed43c1498)
+
 Welcome to my repository documenting the assignments and projects from the Data Science and Machine Learning course I completed. The course is divided into several modules, each focusing on a specific technology or area of study.
 
 ## Module 1: Python Programming
